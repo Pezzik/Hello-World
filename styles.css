@@ -1,0 +1,44 @@
+body 
+{
+    background: blue;
+    color: aqua;
+     margin: 50px 50px 50px 50px;
+}
+
+img#kart
+{
+    border: 5px;
+    padding: 10px;
+    border-style:solid;
+    border-color:chocolate;
+}
+
+
+h1 
+{
+    color:red;
+}
+h2 
+{
+    color:darkgoldenrod;
+}
+h2#rose
+{
+    color:crimson;
+}
+p:first-letter
+{
+    color:red;
+}
+p:first-line
+{
+    color:blueviolet;
+}
+ p
+
+{
+    font-family: Fantasy,monospace;
+    font-style:oblique;
+    font-weight:100;
+    font-size:7mm;
+}
